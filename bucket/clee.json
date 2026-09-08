@@ -1,11 +1,11 @@
 {
-    "version": "0.26.0",
+    "version": "0.26.1",
     "description": "CleeCode - your terminal IDE: file tree, editor tabs and real terminals in one window",
     "homepage": "https://cleecode.marunja.com",
     "license": "MIT",
-    "url": "https://github.com/msavox/cleecode/releases/download/v0.26.0/clee-v0.26.0-windows-x86_64.zip",
-    "hash": "fbe01669f47f202887f4a30a9a7bf7b5c815aeff6d69c4047b50f5f8f34d7c85",
-    "extract_dir": "clee-v0.26.0-windows-x86_64",
+    "url": "https://github.com/msavox/cleecode/releases/download/v0.26.1/clee-v0.26.1-windows-x86_64.zip",
+    "hash": "8f511ced033fef34f45f2f6d5669409d0ae623e5abe9cdd43cb0093c201c7cd6",
+    "extract_dir": "clee-v0.26.1-windows-x86_64",
     "bin": "clee.exe",
     "checkver": {
         "github": "https://github.com/msavox/cleecode"
